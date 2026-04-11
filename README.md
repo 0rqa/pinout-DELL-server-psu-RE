@@ -52,3 +52,10 @@
 |BIO10|IO_GND|Common IO ground tied to PE|
 |BIO11|/|/|
 |BIO12|/|/|
+
+<br>
+
+---
+
+<br>
+For anybody interested in only enabling the main 12V+ rail on the PSU, you can short BIO1 and BIO2 to BIO4.
