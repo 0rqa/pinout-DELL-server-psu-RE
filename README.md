@@ -19,7 +19,7 @@
 
 <br>
 
-![image](https://github.com/0rqa/pinout-DELL-server-psu-RE/blob/main/pictures/schema_dell_psu.png)
+![image](https://github.com/0rqa/pinout-DELL-server-psu-RE/blob/main/pictures/schema_dell_psu%20.png)
 
 |pin|description|explanation|
 |-|-|-|
