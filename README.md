@@ -27,10 +27,19 @@ This diagram and pinout should match all second gen DELL server PSUs, eg. all wi
 
 ---
 
+
+I believe dell is using [E123043-5WAS-JF](https://www.foxconn-connector.com/edge_memory_card/E123043_5WAS_JF_328.html), but I didn't personally tested it, and I'm not even sure if it's correct.
 <br>
 <br>
 
+---
+
+
+<br>
+
 ![image](https://github.com/0rqa/pinout-DELL-server-psu-RE/blob/main/pictures/schema_dell_psu%20.png)
+
+
 
 |pin|description|explanation|
 |-|-|-|
